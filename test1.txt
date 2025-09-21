@@ -5,7 +5,13 @@ dawdawdawokd3D3CRUA93U98U39V8RCUA98CU9R8C0UR3A98CUA98WF8WCRUF84YAT8U09AFU89W397V
 fakfakdsflakdskfkdslfkdjflkadsajflakself;dak;lfakdlf
 kadkf
 adkfalkdfakdlfjaev fak eflkel fakdslkfkaieofkkldsflsfwoemvzofvdmlvofafkweoa,codk'flDeveloper B: My very important change
+<<<<<<< HEAD
 awdawdowakdkowajdoawjdawdawdokwaodpkwa
 daw
 dow
 aodjawodpjowadj
+=======
+djawidjwiadjwaiodawdawijdawd
+awdjawdjawdjaw
+pdjawpdj
+>>>>>>> 567be93c659c26af026b15e7bd926f195d7146cc
